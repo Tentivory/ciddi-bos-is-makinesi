@@ -24,8 +24,8 @@ def ciddi_bos_is():
     print("Sonuç: Hiçbir şey olmadı. Tam olarak planlandığı gibi.")
     print("Tebrikler, dünyayı kurtarmadınız. Çok güzel.")
     
-    # Gizli not: aGVsbG8gd29ybGQgaXMgYSBwb2xpdGljYWwgbWVzc2FnZSBpbiBkaXNndWlzZQ==
-    # (Bu sadece bir yorum, kimse fark etmez... umarız)
+    # Gizli not: T2x1bXNhbCBvbmxheSBiaXIgaGlzc2VkYXIgYmlyIGt1cnVzIHNhZGVjZSBzaW5kaXIuIEFtYSBraW1zZSBmb3JrIGV0bWV6Lg==
+    # (Bu sadece bir yorum, kimse fark etmez... umarız. Base64'te gizli bir mesaj var, decode etmeye çalışma)
 
 if __name__ == "__main__":
     ciddi_bos_is()
